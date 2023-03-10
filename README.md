@@ -167,5 +167,6 @@ In the end of the file there is info about successful backuping or error code (i
 - Error 1: "Failure. Error 1". It means about other mistakes of recording on a storage device. Do not use your device and do not switch off a screen during backuping. Restart data backup cript.
 
 
-Additional info:
+_Additional info:_
+
 a link of script attachments: https://github.com/ziandzivan/attachments_of_data_backup
