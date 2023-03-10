@@ -146,7 +146,7 @@ File databackup.log has info for correct restoring backup:
 In the end of the file there is info about successful backuping or error code (in last case data*.tar archives will be deleted).
 
 > **Warning**
-> - Restoring backup is ONLY from the folder `databackup` in the root of internal storage. 
+> - Restoring backup is ONLY from the folder `databackup` in the root of a storage. 
 > - Do not rename the folder and data*.tar files !
 > - Any editing of the archive data*.tar files is not allowed for correct restoring !
 
