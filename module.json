@@ -1,6 +1,6 @@
 {
     "version": "v2.12",
-    "versionCode": 4,
+    "versionCode": 5,
     "zipUrl": "https://github.com/ziandzivan/data_backup/releases/download/v2.12/data_backup_v2.12-MAGISK.zip",
     "changelog": "https://raw.githubusercontent.com/ziandzivan/data_backup/main/changelog.md"
 }
