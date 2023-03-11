@@ -1,6 +1,8 @@
 
 # data_backup
 
+> _Download releases_: https://github.com/Magisk-Modules-Alt-Repo/data_backup/releases
+
 ## Introduction
 
 Script of creating User Data backup from booted system with root (subsequent restoring by ![data_restore.zip](https://github.com/ziandzivan/data_restore) script).
@@ -166,6 +168,7 @@ In the end of the file there is info about successful backuping or error code (i
 - Error 2: "Failure. Error 2. Not enough place on storage device". Care about enough free place.
 - Error 1: "Failure. Error 1". It means about other mistakes of recording on a storage device. Do not use your device and do not switch off a screen during backuping. Restart data backup cript.
 
-_Additional info:_
+## Additional info:
 
-a link of script attachments: https://github.com/ziandzivan/attachments_of_data_backup
+- Magisk Modules Alternative Repository: https://github.com/Magisk-Modules-Alt-Repo/data_backup
+- A link of script attachments: https://github.com/ziandzivan/attachments_of_data_backup
